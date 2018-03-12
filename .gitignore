@@ -50,3 +50,24 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# files specific to automake
+Makefile
+config.cache
+config.h
+config.log
+config.status
+docs/Makefile
+docs/glib-config.1
+glib-config
+glib.pc
+glibconfig-sysdefs.h
+glibconfig.h
+gmodule.pc
+gmodule/Makefile
+gmodule/gmoduleconf.h
+gthread.pc
+gthread/Makefile
+libtool
+stamp-h
+tests/Makefile
